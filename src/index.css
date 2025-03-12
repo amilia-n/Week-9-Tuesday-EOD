@@ -1,6 +1,7 @@
 :root{
   /* Step 1: Add color variables here */
-  /* BONUS: Add size variables here */
+  --logo-color: #f66767;
+  --logo-size: 40vmin;
   --logo-speedTiming: 20s;
 }
 
